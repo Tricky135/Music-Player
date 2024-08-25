@@ -1,0 +1,6 @@
+Disclaimer :- 
+
+1. Download the icons of buttons and place them directly inside Music Player folder.
+2. Create a Songs folder within Music Player folder. Download and add/replace songs to this folder itself. 
+3. Add the path of this Music Player file in the code itself in the PATH variable so that you can easily access other files related to this application.
+
