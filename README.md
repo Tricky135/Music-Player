@@ -1,4 +1,4 @@
-# music-player
+# Music Player Application
 Python based Music Player Application with a modern design, responsive layout and enhanced UI.  
 
 The Enhanced Music Player is a simple yet functional desktop music player application built using Python's tkinter for the GUI and pygame for audio playback. The application allows users to create a playlist, play, pause, stop, and navigate between songs. This player also includes a responsive interface and user-friendly controls, making it a great choice for users who want a straightforward music playback experience.
