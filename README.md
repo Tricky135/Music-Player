@@ -1,9 +1,9 @@
 # Music Player Application
 Python based Music Player Application with a modern design, responsive layout and enhanced UI.  
 
-The Enhanced Music Player is a simple yet functional desktop music player application built using Python's tkinter for the GUI and pygame for audio playback. The application allows users to create a playlist, play, pause, stop, and navigate between songs. This player also includes a responsive interface and user-friendly controls, making it a great choice for users who want a straightforward music playback experience.
+(i). Abstract :- The Enhanced Music Player is a simple yet functional desktop music player application built using Python's tkinter for the GUI and pygame for audio playback. The application allows users to create a playlist, play, pause, stop, and navigate between songs. This player also includes a responsive interface and user-friendly controls, making it a great choice for users who want a straightforward music playback experience.
 
-FEATURES :-
+(ii). Features :-
 1. Playlist Management:
    (i). Add songs to the playlist from your local files.
    (ii). Remove songs from the playlist.
@@ -18,7 +18,7 @@ FEATURES :-
    (iii). Scrollable playlist view with custom color themes.
    (iv). Intuitive control buttons with icons.
    
-USAGE :-
+(iii). How to use :-
 1. Adding Songs: Use the "File" menu and select "Add Songs" to browse and add songs to your playlist. The songs will be displayed in the listbox.
 2. Playing Music: Select a song from the playlist and use the play/pause button to start playback. Use the stop button to stop playback, or the previous/next buttons to navigate through the playlist.
 3. Deleting Songs: Select a song from the playlist and use the "File" menu's "Delete Song" option to remove it from the list.
@@ -26,7 +26,9 @@ USAGE :-
    (i). music_player.py: Main application script containing the GUI, playlist management, and playback logic.
    (ii). play_icon.png, pause_icon.png, stop_icon.png, prev_icon.png, next_icon.png: Icons for control buttons.
 
-NOTES :-
+(iv). Disclaimer  :-
 1. Ensure that the songs you want to add are in .mp3 format.
 2. Install os, pygame and PIL package from terminal if not installed already.
 3. The application uses a fixed path "E:/Music Player/Songs/" for playback. Adjust this path in the code to match the location of your music files.
+
+(v). Future Scope :- This application has the intended classic look, however a modern and clean design should be a better option. Buttons for replay, loop, sorting and more can be added to improve its functionality and give it a finishing it deserves.
